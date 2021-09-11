@@ -53,7 +53,7 @@ public class DeliveryStat extends AppCompatActivity {
                 user_Ch="success";
 
                 successinsert();
-                Toast.makeText(getApplicationContext(), "배송수령을 완료했습니다.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "배송수령을 완료했습니다!", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(DeliveryStat.this, Main.class);
                 startActivity(intent);
                 finish();
