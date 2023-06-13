@@ -17,12 +17,12 @@
 ![대체 텍스트](./image/db.JPG)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## 👨‍🏫 코드 설명
-![대체 텍스트](./image/php설명.JPG)
+## 💻 phpMyAdmin 화면
+![대체 텍스트](./image/phpmyadmin.JPG)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 👨‍🏫 코드 설명
-![대체 텍스트](./image/phpmyadmin.JPG)
+![대체 텍스트](./image/php설명.JPG)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 📜 설계도 
