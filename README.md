@@ -1,5 +1,6 @@
 #  INDIGO 🛵📦 <br>    자율주행을 활용한 실내 스마트 카트 시스템
-<br>
+논문 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10664647
+<br/><br/><br/><br/>
 
 ## 🏆 교외 및 교내 수상
 
