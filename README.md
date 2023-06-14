@@ -1,8 +1,14 @@
 #  INDIGO 🛵📦 <br>    자율주행을 활용한 실내 스마트 카트 시스템
 <br>
 
+## 🏆 교외 및 교내 수상
+
+<img src="https://github.com/dongwonkwon/INDIGO/assets/90139277/838d9875-0eff-40a6-ab61-ae1ce61df08a" width="45%" height="45%">
+<img src="https://github.com/dongwonkwon/INDIGO/assets/90139277/f3443633-d280-4eb2-9b73-312bd066a4bd" width="45%" height="45%" align="right">
+
 ## ⚙ INDIGO 구성도
 ![대체 텍스트](./image/indigo1.JPG)
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 🤖 ROS 구성도
