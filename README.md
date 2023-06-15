@@ -15,6 +15,7 @@
 <img src="https://github.com/dongwonkwon/INDIGO/assets/90139277/f3443633-d280-4eb2-9b73-312bd066a4bd" width="45%" height="45%" align="right">
 <br/><br/><br/><br/><br/><br/>
 </details>
+<br/><br/><br/><br/>
 
 ## ⚙ INDIGO 구성도
 ![대체 텍스트](./image/indigo1.JPG)
