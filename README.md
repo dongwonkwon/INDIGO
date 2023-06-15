@@ -9,7 +9,7 @@
 > ### 2021년 학부융합 프로그램 동상
 <br/>
 <details>
-<summary>수상 내역 보기</summary>
+<summary>👉수상 내역 보기 click</summary>
 
 <img src="https://github.com/dongwonkwon/INDIGO/assets/90139277/838d9875-0eff-40a6-ab61-ae1ce61df08a" width="45%" height="45%">
 <img src="https://github.com/dongwonkwon/INDIGO/assets/90139277/f3443633-d280-4eb2-9b73-312bd066a4bd" width="45%" height="45%" align="right">
